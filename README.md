@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ToniDujmovic
-- 👀 I’m interested in frontend development using React
+- 👀 I’m interested in cybersecurity
 - 🌱 I’m currently studying at FER Zagreb
 - 📫 How to reach me 
   linkedin.com/in/toni-dujmovic-98a054210
